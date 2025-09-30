@@ -1,9 +1,3 @@
-Tentu, ini adalah file `README.md` yang lengkap untuk proyek boilerplate yang telah kita bangun. File ini mencakup semua aspek, mulai dari fitur, cara instalasi, hingga daftar perintah dan endpoint API.
-
-Anda bisa menyalin dan menempelkan seluruh konten ini ke dalam file `README.md` di direktori root proyek Anda.
-
------
-
 # Go Chi API Boilerplate 🚀
 
 [](https://golang.org/dl/)
